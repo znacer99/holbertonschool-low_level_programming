@@ -3,8 +3,10 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes there */
-/*main - program entry */
+/* betty style doc for function main goes there
+*main - entry point for program
+*function main precise  if n is positive, zero or negative
+*/
 int main(void)
 {
 	int n;
