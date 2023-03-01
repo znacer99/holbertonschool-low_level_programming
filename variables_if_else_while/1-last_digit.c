@@ -3,11 +3,7 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/**
-*main - entry point
-*
-*return : always 0 (success)
-*/
+/* Returns 0 on successful execution */
 int main(void)
 {
 int n;
