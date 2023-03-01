@@ -1,10 +1,11 @@
 #include <stdio.h>
 
-int main() {
+int main(void)
+{
 
 char c;
 
 for (c = 'a' ; c <= 'z' ; ++c)
-putchar(c);
-return 0;
+putchar ; 
+return (0);
 }
