@@ -6,7 +6,8 @@
 */
 int main(void)
 {
-int n,c ;
+int n;
+char c ;
 while (n < 9)
 {
 putchar(n);
