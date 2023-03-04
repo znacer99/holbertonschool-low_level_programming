@@ -1,0 +1,23 @@
+#include <stdio.h>
+/**
+* main -Entry point
+*
+* Return: Always 0 (success)
+*/
+int main(void)
+{
+char n;
+while (n <= '9')
+{
+putchar(n);
+if (n != '9')
+{
+putchar(',');
+putchar(' ');
+}
+n++;
+}
+putchar('\n');
+return (0);
+}
+
