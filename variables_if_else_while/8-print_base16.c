@@ -13,7 +13,7 @@ while (n < 9)
 putchar(n);
 n++;
 }
-for (c = 'A' ; c <= 'Z' ; c++)
+for (c = 'A' ; c <= 'F' ; c++)
 {
 putchar(c);
 }
