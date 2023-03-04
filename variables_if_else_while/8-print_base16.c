@@ -6,7 +6,7 @@
 */
 int main(void)
 {
-int n;
+int n = 0;
 char c ;
 while (n < 9)
 {
