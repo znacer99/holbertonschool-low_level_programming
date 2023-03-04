@@ -11,6 +11,7 @@ char c ;
 while (n < 9)
 {
 putchar(n);
+n++
 }
 for (c = 'A' ; c <= 'Z' ; c++)
 {
