@@ -1,4 +1,4 @@
-#include <main.h>
+#include <stdio.h>
 /**
 *main -Entry point
 *
@@ -6,10 +6,6 @@
 */
 int main(void)
 {
-char *str = "_putchar\n";
-while (*str)
-{
-_putchar(*str++);
-}
+puts("_putchar");
 return (0);
 }
