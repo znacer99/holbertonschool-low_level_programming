@@ -1,5 +1,10 @@
 #include "main.h"
 
+/**
+* print_sign - Entry point
+* @n: int
+* Return: n value
+*/
 int print_sign(int n)
 
 {
