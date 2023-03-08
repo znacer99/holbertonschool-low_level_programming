@@ -3,7 +3,7 @@
 /**
 * print_last_digit -Entry point
 *@r: int
-*return: value of last digit
+*Return: Value of last digit
 */
 
 int print_last_digit(int r)
