@@ -42,7 +42,6 @@ if (*p)
 if (*p == 'c' || *p == 'i' || *p == 'f' || *p == 's')
 printf(", ");
 }
-}
 printf("\n");
 va_end(args);
 }
